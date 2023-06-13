@@ -1,0 +1,1 @@
+import{aI as e,f as o,H as s,x as t}from"./index-cda598fa.js";const r=o({}),a={class:""};function n(c,p,f,_,d,i){return t(),s("div",a,"forgetpassword页面")}const m=e(r,[["render",n]]);export{m as default};
